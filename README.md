@@ -19,6 +19,7 @@ Soil moisture sensor, showing measurement on a scale from 0 to 100% on the LCD s
 More about the capacitive soil moisture probe: [video](https://youtu.be/FmIuJTOV7oc)
 
 ## Scheme
+<a href="https://oshwlab.com/inzynier.domu/czujnik-wilgotno-ci-gleby">Link to EasyEDA schem.</a>
 ![scheme](https://github.com/InzynierDomu/Soil_hum_meter/blob/main/scheme.png)
 The probe is connected to the jack plug, that the signal wire was connected to A3 and GND and 5V were connected correct.
 
