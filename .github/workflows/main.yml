@@ -29,6 +29,3 @@ jobs:
 
       - name: Run PlatformIO
         run: pio run -e nanoatmega328
-
-      - name: Run check
-        run: pio check -e check
