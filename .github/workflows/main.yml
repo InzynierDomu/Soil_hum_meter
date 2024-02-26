@@ -28,7 +28,7 @@ jobs:
           pip install --upgrade platformio
 
       - name: Run PlatformIO
-        run: pio run -e nanoatmega32
+        run: pio run -e nanoatmega328
 
       - name: Run check
         run: pio check -e check
