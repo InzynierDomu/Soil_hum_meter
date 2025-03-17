@@ -4,7 +4,6 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/InzynierDomu/Soil_hum_meter?style=flat-square)
 <a href="https://discord.gg/KmW6mHdg">![Discord](https://img.shields.io/discord/815929748882587688?logo=discord&logoColor=green&style=flat-square)</a>
 ![GitHub](https://img.shields.io/github/license/InzynierDomu/Soil_hum_meter?style=flat-square)
-<a href="https://tipo.live/p/inzynierdomu">![support](https://img.shields.io/badge/support-tipo.live-yellow?style=flat-square)</a>
 
 - [Soil\_hum\_meter](#soil_hum_meter)
   - [Description](#description)
