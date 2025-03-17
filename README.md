@@ -17,6 +17,12 @@ Soil moisture sensor, showing measurement on a scale from 0 to 100% on the LCD s
 
 More about the capacitive soil moisture probe: [video](https://youtu.be/FmIuJTOV7oc)
 
+<div align="center">
+<h2>Support</h2>
+
+<p>If any of my projects have helped you in your work, studies, or simply made your day better, you can buy me a coffee. <a href="https://buycoffee.to/inzynier-domu" target="_blank"><img src="https://buycoffee.to/img/share-button-primary.png" style="width: 195px; height: 51px" alt="Postaw mi kawę na buycoffee.to"></a></p>
+</div>
+
 ## Scheme
 <a href="https://oshwlab.com/inzynier.domu/czujnik-wilgotno-ci-gleby">Link to EasyEDA schem.</a>
 ![scheme](https://github.com/InzynierDomu/Soil_hum_meter/blob/main/scheme.png)
